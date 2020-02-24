@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="zachieve/|test/ConstrainVisibility.java|gui/common/SettingPage.java|gui/component/SettingSidebar.java|gui/common/Home.java|gui/customer/MyCart2.java|main/MyTest.java|asystem/BackupDatabase.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/JPanelSlider.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/substance-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/trident.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/DJNativeSwing-SWT-1-0-2/DJNativeSwing.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/DJNativeSwing-SWT-1-0-2/DJNativeSwing-SWT.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/org.eclipse.swt.win32.win32.x86_64-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/jna.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/jna-utils.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/OpenPojo-0.8.13/openpojo-0.8.13.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/OpenPojo-0.8.13/openpojo-0.8.13-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/OpenPojo-0.8.13/openpojo-0.8.13-sources.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/classgraph-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/desk/#project/api/sqlite-jdbc-3.30.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
