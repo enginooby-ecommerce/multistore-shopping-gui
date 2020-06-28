@@ -1,5 +1,5 @@
 # Multi-store Shopping Desktop Application
-A GUI program used by retailers to sell products, customers to purchase products, admin to manage all accounts with database.\
+A GUI program used by retailers to sell products, customers to purchase products, admin to manage all accounts with database.  
 
 Main menu:\
 ![](https://github.com/cpulover/multi-store-shopping/blob/master/images/main-menu.PNG)
