@@ -1,4 +1,4 @@
-# multi-store-shopping
+# Multi-store Shopping Desktop Application
 A GUI program used by retailers to sell products, customers to purchase products, admin to manage all accounts with database.\
 
 Main menu:\
