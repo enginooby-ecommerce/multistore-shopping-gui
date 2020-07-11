@@ -1,14 +1,14 @@
 # Multi-store Shopping Desktop Application
 ### ! Compile with JDK 8 !
 A less crappy GUI program built with Java Swing, used by retailers to sell products, customers to purchase products, admin to manage all accounts with SQLite database using JDBC.  
-Main menu:\
+### Main menu 
 ![](https://github.com/cpulover/multi-store-shopping/blob/master/images/main-menu.PNG)
 
-Admin menu:\
+### Admin menu  
 ![](https://github.com/cpulover/multi-store-shopping/blob/master/images/admin-menu.PNG)
 
-Customer menu:\
+### Customer menu
 ![](https://github.com/cpulover/multi-store-shopping/blob/master/images/customer-menu.PNG)
 
-Retailer menu:\
+### Retailer menu
 ![](https://github.com/cpulover/multi-store-shopping/blob/master/images/retailer-menu.PNG)
