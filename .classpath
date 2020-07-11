@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry excluding="zachieve/|test/ConstrainVisibility.java|gui/common/SettingPage.java|gui/component/SettingSidebar.java|gui/common/Home.java|gui/customer/MyCart2.java|main/MyTest.java|asystem/BackupDatabase.java" kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_201"/>
 	<classpathentry kind="lib" path="C:/desk/#project/api/JPanelSlider.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="C:/desk/#project/api/substance-6.1.jar"/>

@@ -1,25 +1,17 @@
-package asystem;
 
-import java.awt.Color;
-import java.lang.reflect.Field;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-import java.util.TimerTask;
 
-import javax.swing.ImageIcon;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 
-import org.pushingpixels.substance.api.SubstanceLookAndFeel;
-
+import asystem.Database;
+import asystem.Setup;
 import chrriis.common.UIUtils;
 import chrriis.dj.nativeswing.NativeSwing;
 import chrriis.dj.nativeswing.swtimpl.NativeInterface;
-import gui.common.ViewItemDetail;
 import gui.common.Z;
 import main.Admin;
 
-public class Main {
+public class ShoppingApp {
 	public static void main(String[] args) {
 		Database.initDatabase();
 		// create an admin

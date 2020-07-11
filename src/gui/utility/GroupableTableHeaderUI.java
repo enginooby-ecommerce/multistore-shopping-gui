@@ -30,10 +30,6 @@ import javax.swing.table.TableColumnModel;
 import gui.utility.GroupableColumnModel.IColumnGroup;
 import sun.swing.SwingUtilities2;
 
-/**
- *
- * @author shane
- */
 public class GroupableTableHeaderUI extends BasicTableHeaderUI {
 
 	protected static Cursor resizeCursor = Cursor.getPredefinedCursor(Cursor.E_RESIZE_CURSOR);
